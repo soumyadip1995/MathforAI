@@ -1,21 +1,3 @@
-## General Resources
-
-### Learning Platforms
-
-* [Khan Academy](https://www.khanacademy.org/math)
-* [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
-* [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
-* [edX](https://www.edx.org/course/subject/math)
-* [Brilliant](https://brilliant.org/)
-
-### Learn to Learn
-
-* [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
-
-### Questions and Answers
-
-* [Mathematics Stack Exchange](http://math.stackexchange.com/)
-* [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
 
 ## Week 1 
 ### Statistics for Data Science
@@ -34,8 +16,10 @@
 ### Probability
 - Read the blog post on the [Basics of Probability](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/) by Analytics Vidhya.
 - Watch the full playlist of [Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) by MIT opencourseware
-  - Book- [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) by Charles M. Grinstead, J. Laurie Snell.
+  - **Book**- [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) by Charles M. Grinstead, J. Laurie Snell.
+  - [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - by Dirk P. Kroese (University of Queensland)
 - Check out [this](https://github.com/VSerpak/DSE210x-Statistics-and-Probability-in-Data-Science-using-Python) repository by Vadym Serpak for the code on Statistics and Probability in Data Science Using Python.
+
 
 ## Week 3
 ### Linear Algebra
@@ -48,14 +32,40 @@
  ## Week 4
  ### Algorithms, Data Structures, Dynamic Programming, Graph theory
  - Watch the full playlist [Algorithms, Data Structures](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLPsbJPZDyPYHF0DJLiXcFKFtebgFlV0ID) By MIT OpenCourseWare, 2011.
-   - The code for Data Structures is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Data%20Structure)- Trees, Stack, Queue, Linked List
+   - **The code for Data Structures** is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Data%20Structure)- Trees, Stack, Queue, Linked List
  - [Dynamic programming](https://www.geeksforgeeks.org/dynamic-programming/) by Geeks for Geeks. Try solving the problems as well.
-   - The code for Dynamic Programming is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Dynamic%20Programming)
+   - **The code for Dynamic Programming** is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Dynamic%20Programming)
  - Read the blogpost on [Introduction to Graph Theory Network Analysis](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/) by Analytics Vidhya.
-   - The code for Graph Theory is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Graph)
+   - **The code for Graph Theory** is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Graph)
  - [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - by Christopher Griffin.
  
  ## Week 5
  ### Calculus
+ - [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) -by Professor Gilbert Strang
+   - Download the MIT OpenCourseWare resource materials from [here](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/download-resource-materials/)
+ - Read the blogpost on [Calculus — Multivariate Calculus And Machine Learning](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c)
+ - [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - by Eugen J. Ionascu
+ - Read this blogpost called [ A Quick Introduction to Derivatives For Machine learning](https://towardsdatascience.com/a-quick-introduction-to-derivatives-for-machine-learning-people-3cd913c5cf33)
+ - [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) -  by Erich Miersemann (Leipzig University).
+ - [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - by E. Harrell, J. Herod (Georgia Tech).
+ 
+ 
+ 
+ ## General Resources
 
+### Learning Platforms
 
+* [Khan Academy](https://www.khanacademy.org/math)
+* [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
+* [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
+* [edX](https://www.edx.org/course/subject/math)
+* [Brilliant](https://brilliant.org/)
+
+### Learn to Learn
+
+* [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
+
+### Questions and Answers
+
+* [Mathematics Stack Exchange](http://math.stackexchange.com/)
+* [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
