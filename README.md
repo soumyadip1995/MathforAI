@@ -28,7 +28,7 @@
 - [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource 
   on practical statistics directed towards scientists and engineers.
 - [Assignments and solutions](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%201%20Assignment) for week 1
-
+- See the [Computer Oriented Statistical Methods](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Computer%20Oriented%20Statistical%20Methods)
 
 ## Week 2
 ### Probability
@@ -40,14 +40,22 @@
 ## Week 3
 ### Linear Algebra
 - Watch the [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) course by coursera.
-  - Book- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) by Jim Hefferon
+  - **Book**- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) by Jim Hefferon
 - Watch the full playlist for [MIT 18.06, Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) by Professor Gilbert Strang.
 - Assignments for the above lectures are [here](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/)
 - [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - by Juan Klopper
  
  ## Week 4
- ### Algorithms, Data Structures, Ml
+ ### Algorithms, Data Structures, Dynamic Programming, Graph theory
  - Watch the full playlist [Algorithms, Data Structures](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLPsbJPZDyPYHF0DJLiXcFKFtebgFlV0ID) By MIT OpenCourseWare, 2011.
- - 
+   - The code for Data Structures is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Data%20Structure)- Trees, Stack, Queue, Linked List
+ - [Dynamic programming](https://www.geeksforgeeks.org/dynamic-programming/) by Geeks for Geeks. Try solving the problems as well.
+   - The code for Dynamic Programming is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Dynamic%20Programming)
+ - Read the blogpost on [Introduction to Graph Theory Network Analysis](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/) by Analytics Vidhya.
+   - The code for Graph Theory is [here](https://github.com/soumyadip1995/Mathematics_for_AI_in_5_weeks/tree/master/Week%204/Graph)
+ - [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - by Christopher Griffin.
+ 
+ ## Week 5
+ ### Calculus
 
 
