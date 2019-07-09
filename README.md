@@ -77,7 +77,7 @@
 * [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
 
  
-### For Further Reading(Not recommended specefically for Machine learning) but go ahead if you are interested..😊
+### For Further Reading(Not recommended specifically for Machine learning) but go ahead if you are interested..😊
 
 ## Mathematics for Computer Science
 
