@@ -1,4 +1,4 @@
-## Mathematics_for_AI_in_5_weeks
+## Mathematics_for_AI
 
 
 
